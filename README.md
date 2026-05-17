@@ -14,6 +14,13 @@
 - **深色模式** — 支持深色/浅色主题切换
 - **独立打包** — 可编译为单个 EXE，无需安装 Python 环境
 
+注意
+本工具解密的歌曲文件可能会吞掉音乐的封面等元数据，可以使用工具musictag来补全音乐元数据。
+
+musictag作者博客：https://www.cnblogs.com/vinlxc/p/11347744.html
+
+开源docker网页版：https://github.com/xhongc/music-tag-web
+
 ## 依赖
 
 - Python 3.10+
