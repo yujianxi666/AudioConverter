@@ -1,0 +1,7 @@
+customtkinter>=5.2.0
+miniaudio>=1.60
+soundfile>=0.12.0
+numpy>=1.24.0
+pycryptodome>=3.19.0
+pyinstaller>=6.0.0
+mutagen>=1.46
